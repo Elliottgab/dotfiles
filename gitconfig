@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = elliott.gabison@gmail.com
+	name = elliott gabison
